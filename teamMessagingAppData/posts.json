@@ -1,0 +1,133 @@
+[{
+  "_id": {
+    "$oid": "618ccbd5789f840724812abf"
+  },
+  "user_id": "618cc950789f840724812a9e",
+  "message": "Hello Guys Here we will learn Machine learning",
+  "channel_id": "618ccbab789f840724812ab6",
+  "createdAt": {
+    "$date": "2021-11-11T07:52:53.523Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618ccc88789f840724812ae4"
+  },
+  "user_id": "618cc950789f840724812a9e",
+  "message": "Hello Mern",
+  "channel_id": "618ccbfe789f840724812ac5",
+  "createdAt": {
+    "$date": "2021-11-11T07:55:52.761Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618ccc95789f840724812aed"
+  },
+  "user_id": "618cc950789f840724812a9e",
+  "message": "Hello Nodejs",
+  "channel_id": "618ccc11789f840724812ac7",
+  "createdAt": {
+    "$date": "2021-11-11T07:56:05.229Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618ccc9f789f840724812af6"
+  },
+  "user_id": "618cc950789f840724812a9e",
+  "message": "Hello PHP",
+  "channel_id": "618ccc3e789f840724812ace",
+  "createdAt": {
+    "$date": "2021-11-11T07:56:15.819Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618cccaa789f840724812aff"
+  },
+  "user_id": "618cc950789f840724812a9e",
+  "message": "Hello Cooking",
+  "channel_id": "618ccc50789f840724812ad0",
+  "createdAt": {
+    "$date": "2021-11-11T07:56:26.826Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618cccb7789f840724812b08"
+  },
+  "user_id": "618cc950789f840724812a9e",
+  "message": "Hello Foodie people",
+  "channel_id": "618ccc62789f840724812ad2",
+  "createdAt": {
+    "$date": "2021-11-11T07:56:39.629Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618cccde789f840724812b19"
+  },
+  "user_id": "618ccad2e8839460fd2590cf",
+  "message": "i love food",
+  "channel_id": "618ccc62789f840724812ad2",
+  "createdAt": {
+    "$date": "2021-11-11T07:57:18.881Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618cccec789f840724812b1f"
+  },
+  "user_id": "618ccad2e8839460fd2590cf",
+  "message": "wanna hangout some where?",
+  "channel_id": "618ccc62789f840724812ad2",
+  "createdAt": {
+    "$date": "2021-11-11T07:57:32.035Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618ccd09789f840724812b42"
+  },
+  "user_id": "618ccad2e8839460fd2590cf",
+  "message": "I love to do coding",
+  "channel_id": "618ccc3e789f840724812ace",
+  "createdAt": {
+    "$date": "2021-11-11T07:58:01.565Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618ccd30789f840724812b51"
+  },
+  "user_id": "618cca3ee8839460fd2590cc",
+  "message": "lets cook guys",
+  "channel_id": "618ccc50789f840724812ad0",
+  "createdAt": {
+    "$date": "2021-11-11T07:58:40.166Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618ccd45789f840724812b5b"
+  },
+  "user_id": "618cca3ee8839460fd2590cc",
+  "message": "Hey its amazing",
+  "channel_id": "618ccc11789f840724812ac7",
+  "createdAt": {
+    "$date": "2021-11-11T07:59:01.070Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618ccdc6789f840724812b71"
+  },
+  "user_id": "618cca3ee8839460fd2590cc",
+  "message": "guys posist is amazing company wowww",
+  "channel_id": "618ccc50789f840724812ad0",
+  "createdAt": {
+    "$date": "2021-11-11T08:01:10.082Z"
+  },
+  "__v": 0
+}]

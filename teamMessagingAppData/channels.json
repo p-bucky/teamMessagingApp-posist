@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "618ccbab789f840724812ab6"
+  },
+  "tags": [
+    "machine-learning",
+    " data-science"
+  ],
+  "invitedUser": [
+    "sri@gmail.com",
+    " saif@gmail.com",
+    " abhinav@gmail.com",
+    " tulsi@gmail.com"
+  ],
+  "postCount": 1,
+  "name": "Machine Learning",
+  "description": "Learn Machine Learning",
+  "createdAt": {
+    "$date": "2021-11-11T07:52:11.407Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2021-11-06T07:52:53.510Z"
+  }
+},{
+  "_id": {
+    "$oid": "618ccbfe789f840724812ac5"
+  },
+  "tags": [
+    "js",
+    " css",
+    " html",
+    " react",
+    " nodejs",
+    " mongodb"
+  ],
+  "invitedUser": [
+    "sri@gmail.com",
+    " saif@gmail.com",
+    " abhinav@gmail.com",
+    " tulsi@gmail.com"
+  ],
+  "postCount": 1,
+  "name": "MERN",
+  "description": "MERN Stack",
+  "createdAt": {
+    "$date": "2021-11-11T07:53:34.287Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2021-11-04T07:55:52.751Z"
+  }
+},{
+  "_id": {
+    "$oid": "618ccc11789f840724812ac7"
+  },
+  "tags": [
+    "nodejs",
+    " mongodb"
+  ],
+  "invitedUser": [
+    "sri@gmail.com",
+    " saif@gmail.com",
+    " abhinav@gmail.com",
+    " tulsi@gmail.com"
+  ],
+  "postCount": 2,
+  "name": "Nodejs",
+  "description": "Nodejs Desc",
+  "createdAt": {
+    "$date": "2021-11-11T07:53:53.470Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2021-11-05T07:59:01.062Z"
+  }
+},{
+  "_id": {
+    "$oid": "618ccc3e789f840724812ace"
+  },
+  "tags": [
+    "mysql",
+    " mongodb"
+  ],
+  "invitedUser": [
+    "sri@gmail.com",
+    " saif@gmail.com",
+    " abhinav@gmail.com",
+    " tulsi@gmail.com"
+  ],
+  "postCount": 2,
+  "name": "PHP",
+  "description": "PHP",
+  "createdAt": {
+    "$date": "2021-11-11T07:54:38.689Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2021-11-11T07:58:01.558Z"
+  }
+},{
+  "_id": {
+    "$oid": "618ccc50789f840724812ad0"
+  },
+  "tags": [
+    "food",
+    " foodie",
+    " cafe"
+  ],
+  "invitedUser": [
+    "sri@gmail.com",
+    " saif@gmail.com",
+    " abhinav@gmail.com",
+    " tulsi@gmail.com"
+  ],
+  "postCount": 3,
+  "name": "Cooking",
+  "description": "cooking",
+  "createdAt": {
+    "$date": "2021-11-11T07:54:56.815Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2021-11-11T08:01:10.074Z"
+  }
+},{
+  "_id": {
+    "$oid": "618ccc62789f840724812ad2"
+  },
+  "tags": [
+    "foodie",
+    " cafe"
+  ],
+  "invitedUser": [
+    "sri@gmail.com",
+    " saif@gmail.com",
+    " abhinav@gmail.com",
+    " tulsi@gmail.com"
+  ],
+  "postCount": 3,
+  "name": "Food",
+  "description": "Food",
+  "createdAt": {
+    "$date": "2021-11-11T07:55:14.276Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2021-11-11T07:57:32.025Z"
+  }
+}]

@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "618cc920789f840724812a98"
+  },
+  "postCount": 25,
+  "emailId": "prashant@gmail.com",
+  "username": "prashant",
+  "password": "$2a$10$D3bJdHLqH7VLoXIRvXMNaugqfpBV5vFa7QtZdw2Lmp2moriUvv7EW",
+  "region": "India",
+  "createdAt": {
+    "$date": "2021-11-11T07:41:20.048Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618cc950789f840724812a9e"
+  },
+  "postCount": 28,
+  "emailId": "mukesh@gmail.com",
+  "username": "mukesh",
+  "password": "$2a$10$XXXSxTYHJOq6LQ7rMxmLmedNBg68GhDDSuvTIAlsVJPU.RMzXrxpm",
+  "region": "India",
+  "createdAt": {
+    "$date": "2021-11-11T07:42:08.468Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618cc9a4e8839460fd2590c7"
+  },
+  "postCount": 3,
+  "emailId": "albert@gmail.com",
+  "username": "albert",
+  "password": "$2a$10$XXXSxTYHJOq6LQ7rMxmLmedNBg68GhDDSuvTIAlsVJPU.RMzXrxpm",
+  "region": "USA",
+  "createdAt": {
+    "$date": "2021-11-11T07:42:08.468Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618cc9b4e8839460fd2590c8"
+  },
+  "postCount": 44,
+  "emailId": "joe@gmail.com",
+  "username": "joe",
+  "password": "$2a$10$XXXSxTYHJOq6LQ7rMxmLmedNBg68GhDDSuvTIAlsVJPU.RMzXrxpm",
+  "region": "USA",
+  "createdAt": {
+    "$date": "2021-11-11T07:42:08.468Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618cc9cfe8839460fd2590c9"
+  },
+  "postCount": 89,
+  "emailId": "saif@gmail.com",
+  "username": "saif",
+  "password": "$2a$10$XXXSxTYHJOq6LQ7rMxmLmedNBg68GhDDSuvTIAlsVJPU.RMzXrxpm",
+  "region": "Pakistan",
+  "createdAt": {
+    "$date": "2021-11-11T07:42:08.468Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618cc9f4e8839460fd2590ca"
+  },
+  "postCount": 41,
+  "emailId": "nitin@gmail.com",
+  "username": "nitin",
+  "password": "$2a$10$XXXSxTYHJOq6LQ7rMxmLmedNBg68GhDDSuvTIAlsVJPU.RMzXrxpm",
+  "region": "India",
+  "createdAt": {
+    "$date": "2021-11-11T07:42:08.468Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618cca31e8839460fd2590cb"
+  },
+  "postCount": 5,
+  "emailId": "abhinav@gmail.com",
+  "username": "abhinav",
+  "password": "$2a$10$XXXSxTYHJOq6LQ7rMxmLmedNBg68GhDDSuvTIAlsVJPU.RMzXrxpm",
+  "region": "Nepal",
+  "createdAt": {
+    "$date": "2021-11-11T07:42:08.468Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618cca3ee8839460fd2590cc"
+  },
+  "postCount": 10,
+  "emailId": "om@gmail.com",
+  "username": "om",
+  "password": "$2a$10$XXXSxTYHJOq6LQ7rMxmLmedNBg68GhDDSuvTIAlsVJPU.RMzXrxpm",
+  "region": "Nepal",
+  "createdAt": {
+    "$date": "2021-11-11T07:42:08.468Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618cca5ce8839460fd2590cd"
+  },
+  "postCount": 1,
+  "emailId": "lakshmi@gmail.com",
+  "username": "lakshmi",
+  "password": "$2a$10$XXXSxTYHJOq6LQ7rMxmLmedNBg68GhDDSuvTIAlsVJPU.RMzXrxpm",
+  "region": "Nepal",
+  "createdAt": {
+    "$date": "2021-11-11T07:42:08.468Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618cca8be8839460fd2590ce"
+  },
+  "postCount": 6,
+  "emailId": "vishnu@gmail.com",
+  "username": "vishnu",
+  "password": "$2a$10$XXXSxTYHJOq6LQ7rMxmLmedNBg68GhDDSuvTIAlsVJPU.RMzXrxpm",
+  "region": "Nepal",
+  "createdAt": {
+    "$date": "2021-11-11T07:42:08.468Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618ccad2e8839460fd2590cf"
+  },
+  "postCount": 9,
+  "emailId": "sri@gmail.com",
+  "username": "sri",
+  "password": "$2a$10$XXXSxTYHJOq6LQ7rMxmLmedNBg68GhDDSuvTIAlsVJPU.RMzXrxpm",
+  "region": "Srilanka",
+  "createdAt": {
+    "$date": "2021-11-11T07:42:08.468Z"
+  },
+  "__v": 0
+}]
