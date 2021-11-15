@@ -4,35 +4,31 @@ import { useCookies } from "react-cookie";
 import jwt_decode from "jwt-decode";
 import axios from "axios";
 
-const CreatePost = () => {
+const CreatePost = ({ setPosts, posts }) => {
   const [message, setMessage] = useState("");
 
   const location = useLocation();
-  const id = location.pathname.split("/")[2];
+  const channelId = location.pathname.split("/")[2];
   const [cookies] = useCookies();
-  var decoded = jwt_decode(cookies.token);
+  let userId = jwt_decode(cookies.token);
 
   const handleSubmit = async () => {
-    let user_id = decoded.id;
-    let channel_id = id;
-    // console.log(message, channel_id, user_id);
     try {
       const { data } = await axios.post(
-        `/api/v1/create/post/${channel_id}/${user_id}`,
+        `/api/v1/create/post/${channelId}/${userId.id}`,
         {
           message,
-          channel_id,
-          user_id,
+          channelId,
+          userId: userId.id,
         }
       );
-
       setMessage("");
-
-      console.log(data);
+      setPosts([data.message, ...posts]);
     } catch (error) {
       console.log(error);
     }
   };
+
   return (
     <>
       <button

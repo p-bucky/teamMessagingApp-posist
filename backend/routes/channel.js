@@ -9,6 +9,6 @@ import {
 
 router.post("/create/channel", createChannel);
 router.get("/channels", allChannel);
-router.get("/channel/single/:id", getSingleChannel);
+router.get("/channel/single/:channelId", getSingleChannel);
 
 export default router;

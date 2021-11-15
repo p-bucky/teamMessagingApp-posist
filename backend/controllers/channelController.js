@@ -26,7 +26,7 @@ export const createChannel = async (req, res) => {
 // Get All Channels   => /api/v1/channels
 export const allChannel = async (req, res) => {
   try {
-    const channels = await Channel.find();
+    const channels = await Channel.find().sort({ postCount: -1 });
     res.status(200).json({
       success: true,
       channels,
@@ -41,7 +41,7 @@ export const allChannel = async (req, res) => {
 
 // Get Single channel:  /api/v1/channel/single/:id
 export const getSingleChannel = async (req, res) => {
-  const channel = await Channel.findById(req.params.id);
+  const channel = await Channel.findById(req.params.channelId);
   if (!channel) {
     res.status(401).json({
       success: false,
